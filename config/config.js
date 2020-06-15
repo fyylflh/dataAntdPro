@@ -71,6 +71,12 @@ export default defineConfig({
               ],
             },
             {
+              name: 'list.table-list2',
+              icon: 'smile',
+              path: '/listtablelist',
+              component: './ListTableListTwo',
+            },
+            {
               name: 'list.table-list',
               icon: 'table',
               path: '/list',
